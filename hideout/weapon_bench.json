@@ -70,7 +70,17 @@
         }
       ],
       "crafts": [
-        "arpeggio_i"
+        "arpeggio_i",
+        "compensator_ii",
+        "muzzle_brake_ii",
+        "shotgun_choke_ii",
+        "silencer_i",
+        "angled_grip_ii",
+        "vertical_grip_ii",
+        "extended_light_mag_ii",
+        "extended_medium_mag_ii",
+        "extended_shotgun_mag_ii",
+        "stable_stock_ii"
       ]
     },
     {
@@ -95,5 +105,27 @@
         "hullcracker_i"
       ]
     }
-  ]
+  ],
+  "crafts": {
+    "3": [
+      "compensator_iii",
+      "muzzle_brake_iii",
+      "shotgun_choke_iii",
+      "silencer_ii",
+      "silencer_iii",
+      "shotgun_silencer",
+      "extended_barrel",
+      "angled_grip_iii",
+      "vertical_grip_iii",
+      "horizontal_grip",
+      "extended_light_mag_iii",
+      "extended_medium_mag_iii",
+      "extended_shotgun_mag_iii",
+      "stable_stock_iii",
+      "lightweight_stock",
+      "padded_stock",
+      "kinetic_converter",
+      "anvil_splitter"
+    ]
+  }
 }
