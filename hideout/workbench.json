@@ -22,6 +22,11 @@
     "zh-CN": "工作台",
     "zh-TW": "工作台"
   },
-  "maxLevel": 0,
-  "levels": []
+  "maxLevel": 1,
+  "levels": [
+    {
+      "level": 1,
+      "requirementItemIds": []
+    }
+  ]
 }
