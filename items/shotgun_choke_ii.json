@@ -48,7 +48,10 @@
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,
-  "compatibleWith": ["Il Toro", "Vulcano"],
+  "compatibleWith": [
+    "Il Toro",
+    "Vulcano"
+  ],
   "blueprintLocked": true,
   "effects": {
     "Reduced Base Dispersion": {

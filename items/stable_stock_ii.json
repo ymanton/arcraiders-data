@@ -48,7 +48,13 @@
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,
-  "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Il Toro", "Stitcher"],
+  "compatibleWith": [
+    "Arpeggio",
+    "Rattler",
+    "Kettle",
+    "Il Toro",
+    "Stitcher"
+  ],
   "blueprintLocked": true,
   "effects": {
     "Compatible with": {

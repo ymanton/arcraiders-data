@@ -48,7 +48,13 @@
   "rarity": "Epic",
   "value": 7000,
   "weightKg": 0.75,
-  "compatibleWith": ["Arpeggio", "Rattler", "Ferro", "Anvil", "Torrente"],
+  "compatibleWith": [
+    "Arpeggio",
+    "Rattler",
+    "Ferro",
+    "Anvil",
+    "Torrente"
+  ],
   "effects": {
     "Increased Durability Burn Rate": {
       "value": "20%",
