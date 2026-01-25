@@ -35,7 +35,8 @@
           "itemId": "arc_powercell",
           "quantity": 5
         }
-      ]
+      ],
+      "crafts": []
     },
     {
       "level": 2,
@@ -52,7 +53,8 @@
           "itemId": "fireball_burner",
           "quantity": 8
         }
-      ]
+      ],
+      "crafts": []
     },
     {
       "level": 3,
@@ -69,7 +71,8 @@
           "itemId": "bombardier_cell",
           "quantity": 6
         }
-      ]
+      ],
+      "crafts": []
     }
   ]
 }

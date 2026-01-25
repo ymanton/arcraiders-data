@@ -26,7 +26,8 @@
   "levels": [
     {
       "level": 1,
-      "requirementItemIds": []
+      "requirementItemIds": [],
+      "crafts": []
     }
   ]
 }

@@ -35,7 +35,8 @@
           "itemId": "fabric",
           "quantity": 30
         }
-      ]
+      ],
+      "crafts": []
     },
     {
       "level": 2,
@@ -52,7 +53,8 @@
           "itemId": "hornet_driver",
           "quantity": 5
         }
-      ]
+      ],
+      "crafts": []
     },
     {
       "level": 3,
@@ -69,7 +71,8 @@
           "itemId": "bastion_cell",
           "quantity": 6
         }
-      ]
+      ],
+      "crafts": []
     }
   ]
 }

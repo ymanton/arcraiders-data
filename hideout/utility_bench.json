@@ -35,7 +35,8 @@
           "itemId": "arc_alloy",
           "quantity": 6
         }
-      ]
+      ],
+      "crafts": []
     },
     {
       "level": 2,
@@ -52,7 +53,8 @@
           "itemId": "snitch_scanner",
           "quantity": 6
         }
-      ]
+      ],
+      "crafts": []
     },
     {
       "level": 3,
@@ -69,7 +71,8 @@
           "itemId": "leaper_pulse_unit",
           "quantity": 4
         }
-      ]
+      ],
+      "crafts": []
     }
   ]
 }

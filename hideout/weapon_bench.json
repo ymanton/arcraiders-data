@@ -35,7 +35,8 @@
           "itemId": "rubber_parts",
           "quantity": 30
         }
-      ]
+      ],
+      "crafts": []
     },
     {
       "level": 2,
@@ -52,7 +53,8 @@
           "itemId": "wasp_driver",
           "quantity": 8
         }
-      ]
+      ],
+      "crafts": []
     },
     {
       "level": 3,
@@ -69,7 +71,8 @@
           "itemId": "sentinel_firing_core",
           "quantity": 4
         }
-      ]
+      ],
+      "crafts": []
     }
   ]
 }
