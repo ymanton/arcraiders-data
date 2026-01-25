@@ -98,6 +98,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "mechanical_components": 2,
     "wires": 4

@@ -96,6 +96,8 @@
       "zh-TW": "彈體傷害降低"
     }
   },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
   "recyclesInto": {
     "mod_components": 1,
     "processor": 1

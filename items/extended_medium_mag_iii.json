@@ -74,6 +74,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "mod_components": 2,
     "steel_spring": 5

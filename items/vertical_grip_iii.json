@@ -97,6 +97,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "duct_tape": 5,
     "mod_components": 2

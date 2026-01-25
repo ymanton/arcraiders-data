@@ -119,6 +119,8 @@
       "zh-TW": "垂直後座力增加"
     }
   },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
   "recyclesInto": {
     "duct_tape": 2,
     "mod_components": 1

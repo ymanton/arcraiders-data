@@ -73,6 +73,8 @@
       "zh-TW": "彈匣容量"
     }
   },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
   "recyclesInto": {
     "mod_components": 1,
     "steel_spring": 2
