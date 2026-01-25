@@ -50,8 +50,15 @@
   "weightKg": 0.017,
   "stackSize": 100,
   "craftQuantity": 25,
-  "compatibleWith": ["Kettle", "Burletta", "Hairpin", "Bobcat", "Stitcher"],
+  "compatibleWith": [
+    "Kettle",
+    "Burletta",
+    "Hairpin",
+    "Bobcat",
+    "Stitcher"
+  ],
   "craftBench": "workbench",
+  "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 2,
     "metal_parts": 3

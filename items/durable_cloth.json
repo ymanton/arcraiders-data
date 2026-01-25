@@ -51,6 +51,7 @@
   "weightKg": 0.25,
   "stackSize": 10,
   "craftBench": "refiner",
+  "stationLevelRequired": 1,
   "recipe": {
     "fabric": 14
   },

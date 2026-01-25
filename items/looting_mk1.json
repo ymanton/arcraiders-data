@@ -120,7 +120,11 @@
       "zh-TW": "護盾相容性"
     }
   },
-  "craftBench": ["equipment_bench", "workbench"],
+  "craftBench": [
+    "equipment_bench",
+    "workbench"
+  ],
+  "stationLevelRequired": 1,
   "recipe": {
     "plastic_parts": 6,
     "rubber_parts": 6

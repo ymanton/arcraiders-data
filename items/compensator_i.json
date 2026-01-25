@@ -112,6 +112,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "metal_parts": 6,
     "wires": 1

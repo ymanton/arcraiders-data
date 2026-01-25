@@ -51,6 +51,7 @@
   "weightKg": 0.5,
   "stackSize": 10,
   "craftBench": "refiner",
+  "stationLevelRequired": 1,
   "recipe": {
     "plastic_parts": 8,
     "rubber_parts": 4

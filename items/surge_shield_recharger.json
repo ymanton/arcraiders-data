@@ -98,6 +98,7 @@
     }
   },
   "craftBench": "med_station",
+  "stationLevelRequired": 2,
   "recipe": {
     "advanced_arc_powercell": 1,
     "electrical_components": 1

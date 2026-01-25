@@ -97,6 +97,7 @@
     }
   },
   "craftBench": "utility_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "exodus_modules": 1,
     "power_rod": 2,

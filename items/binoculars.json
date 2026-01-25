@@ -74,6 +74,7 @@
     }
   },
   "craftBench": "utility_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "plastic_parts": 8,
     "rubber_parts": 4

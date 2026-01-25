@@ -51,6 +51,7 @@
   "weightKg": 1,
   "stackSize": 5,
   "craftBench": "refiner",
+  "stationLevelRequired": 2,
   "recipe": {
     "mechanical_components": 2,
     "steel_spring": 2

@@ -50,8 +50,13 @@
   "weightKg": 0.05,
   "stackSize": 40,
   "craftQuantity": 10,
-  "compatibleWith": ["Anvil", "Ferro", "Bettina"],
+  "compatibleWith": [
+    "Anvil",
+    "Ferro",
+    "Bettina"
+  ],
   "craftBench": "workbench",
+  "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 2,
     "metal_parts": 3

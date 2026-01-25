@@ -167,6 +167,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "advanced_mechanical_components": 3,
     "canister": 3,

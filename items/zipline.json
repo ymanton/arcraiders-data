@@ -49,6 +49,7 @@
   "value": 1000,
   "weightKg": 0.4,
   "craftBench": "utility_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "mechanical_components": 1,
     "rope": 1

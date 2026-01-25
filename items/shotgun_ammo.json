@@ -50,8 +50,12 @@
   "weightKg": 0.085,
   "stackSize": 20,
   "craftQuantity": 5,
-  "compatibleWith": ["Il Toro", "Vulcano"],
+  "compatibleWith": [
+    "Il Toro",
+    "Vulcano"
+  ],
   "craftBench": "workbench",
+  "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 2,
     "metal_parts": 3

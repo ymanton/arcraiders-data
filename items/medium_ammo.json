@@ -50,8 +50,15 @@
   "weightKg": 0.025,
   "stackSize": 80,
   "craftQuantity": 20,
-  "compatibleWith": ["Arpeggio", "Rattler", "Tempest", "Renegade", "Torrente"],
+  "compatibleWith": [
+    "Arpeggio",
+    "Rattler",
+    "Tempest",
+    "Renegade",
+    "Torrente"
+  ],
   "craftBench": "workbench",
+  "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 2,
     "metal_parts": 3

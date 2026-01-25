@@ -119,7 +119,11 @@
       "zh-TW": "耐久度"
     }
   },
-  "craftBench": ["workbench", "equipment_bench"],
+  "craftBench": [
+    "workbench",
+    "equipment_bench"
+  ],
+  "stationLevelRequired": 1,
   "recipe": {
     "arc_alloy": 2,
     "plastic_parts": 4

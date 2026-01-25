@@ -166,7 +166,11 @@
       "zh-TW": "彈匣容量"
     }
   },
-  "craftBench": ["workbench", "weapon_bench"],
+  "craftBench": [
+    "workbench",
+    "weapon_bench"
+  ],
+  "stationLevelRequired": 1,
   "recipe": {
     "metal_parts": 8,
     "rubber_parts": 4

@@ -97,7 +97,11 @@
       "zh-TW": "半徑"
     }
   },
-  "craftBench": ["workbench", "explosives_bench"],
+  "craftBench": [
+    "workbench",
+    "explosives_bench"
+  ],
+  "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 3,
     "plastic_parts": 2

@@ -121,6 +121,7 @@
     }
   },
   "craftBench": "med_station",
+  "stationLevelRequired": 3,
   "recipe": {
     "antiseptic": 3,
     "canister": 1

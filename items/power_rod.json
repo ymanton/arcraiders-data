@@ -51,6 +51,7 @@
   "weightKg": 2,
   "stackSize": 3,
   "craftBench": "refiner",
+  "stationLevelRequired": 3,
   "recipe": {
     "advanced_electrical_components": 2,
     "arc_circuitry": 2

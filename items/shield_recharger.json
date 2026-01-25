@@ -120,7 +120,12 @@
       "zh-TW": "使用時間"
     }
   },
-  "craftBench": ["workbench", "med_station", "in_raid"],
+  "craftBench": [
+    "workbench",
+    "med_station",
+    "in_raid"
+  ],
+  "stationLevelRequired": 1,
   "recipe": {
     "arc_powercell": 1,
     "rubber_parts": 5

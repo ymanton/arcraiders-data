@@ -121,6 +121,7 @@
     }
   },
   "craftBench": "med_station",
+  "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 3,
     "plastic_parts": 3

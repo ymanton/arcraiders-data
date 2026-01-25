@@ -51,6 +51,7 @@
   "weightKg": 1,
   "stackSize": 3,
   "craftBench": "refiner",
+  "stationLevelRequired": 3,
   "recipe": {
     "advanced_mechanical_components": 2,
     "arc_motion_core": 2

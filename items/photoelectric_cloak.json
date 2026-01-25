@@ -74,6 +74,7 @@
     }
   },
   "craftBench": "utility_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "advanced_electrical_components": 2,
     "speaker_component": 4

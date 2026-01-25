@@ -121,7 +121,7 @@
     }
   },
   "craftBench": "explosives_bench",
-  "stationLevelRequired": 3,
+  "stationLevelRequired": 2,
   "recipe": {
     "explosive_compound": 1,
     "oil": 2

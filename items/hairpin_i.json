@@ -189,7 +189,11 @@
       "zh-TW": "特殊特性"
     }
   },
-  "craftBench": ["workbench", "weapon_bench"],
+  "craftBench": [
+    "workbench",
+    "weapon_bench"
+  ],
+  "stationLevelRequired": 1,
   "recipe": {
     "metal_parts": 2,
     "plastic_parts": 5

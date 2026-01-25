@@ -121,6 +121,7 @@
     }
   },
   "craftBench": "explosives_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 4,
     "rubber_parts": 2

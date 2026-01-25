@@ -99,6 +99,7 @@
     }
   },
   "craftBench": "refiner",
+  "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 6
   },

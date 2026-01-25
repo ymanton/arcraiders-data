@@ -50,6 +50,7 @@
   "weightKg": 0.01,
   "stackSize": 1,
   "craftBench": "utility_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "advanced_electrical_components": 1,
     "sensors": 3

@@ -74,6 +74,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "duct_tape": 1,
     "plastic_parts": 6

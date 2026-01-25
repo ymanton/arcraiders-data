@@ -50,6 +50,7 @@
   "weightKg": 0.2,
   "stackSize": 3,
   "craftBench": "utility_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 2,
     "rubber_parts": 4

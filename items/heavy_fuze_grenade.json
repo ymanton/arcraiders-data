@@ -98,6 +98,7 @@
     }
   },
   "craftBench": "explosives_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "canister": 2,
     "explosive_compound": 1

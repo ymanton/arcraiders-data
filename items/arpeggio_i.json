@@ -167,6 +167,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "mechanical_components": 6,
     "simple_gun_parts": 6

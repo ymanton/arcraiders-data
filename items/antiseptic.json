@@ -51,6 +51,7 @@
   "weightKg": 1,
   "stackSize": 5,
   "craftBench": "refiner",
+  "stationLevelRequired": 2,
   "recipe": {
     "chemicals": 10,
     "great_mullein": 2

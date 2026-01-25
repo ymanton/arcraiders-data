@@ -143,6 +143,7 @@
     }
   },
   "craftBench": "equipment_bench",
+  "stationLevelRequired": 1,
   "recipe": {
     "arc_circuitry": 1,
     "battery": 4

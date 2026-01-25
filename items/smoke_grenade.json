@@ -99,7 +99,7 @@
     }
   },
   "craftBench": "utility_bench",
-  "stationLevelRequired": 2,
+  "stationLevelRequired": 1,
   "recipe": {
     "canister": 1,
     "chemicals": 14

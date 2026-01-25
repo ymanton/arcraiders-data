@@ -143,6 +143,7 @@
     }
   },
   "craftBench": "equipment_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "power_rod": 1,
     "voltage_converter": 2

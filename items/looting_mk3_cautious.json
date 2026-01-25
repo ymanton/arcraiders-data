@@ -121,6 +121,7 @@
     }
   },
   "craftBench": "equipment_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "advanced_electrical_components": 2,
     "processor": 3

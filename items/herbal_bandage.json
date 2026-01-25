@@ -121,6 +121,7 @@
     }
   },
   "craftBench": "med_station",
+  "stationLevelRequired": 1,
   "recipe": {
     "durable_cloth": 1,
     "great_mullein": 1
