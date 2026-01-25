@@ -36,7 +36,12 @@
           "quantity": 5
         }
       ],
-      "crafts": []
+      "crafts": [
+        "crude_explosives",
+        "durable_cloth",
+        "electrical_components",
+        "mechanical_components"
+      ]
     },
     {
       "level": 2,
@@ -54,7 +59,18 @@
           "quantity": 8
         }
       ],
-      "crafts": []
+      "crafts": [
+        "advanced_electrical_components",
+        "advanced_mechanical_components",
+        "antiseptic",
+        "arc_circuitry",
+        "arc_motion_core",
+        "explosive_compound",
+        "heavy_gun_parts",
+        "light_gun_parts",
+        "medium_gun_parts",
+        "mod_components"
+      ]
     },
     {
       "level": 3,
@@ -72,7 +88,10 @@
           "quantity": 6
         }
       ],
-      "crafts": []
+      "crafts": [
+        "magnetic_accelerator",
+        "power_rod"
+      ]
     }
   ]
 }

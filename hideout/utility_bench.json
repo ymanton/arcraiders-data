@@ -36,7 +36,15 @@
           "quantity": 6
         }
       ],
-      "crafts": []
+      "crafts": [
+        "barricade_kit",
+        "binoculars",
+        "door_blocker",
+        "firecracker",
+        "lil_smoke_grenade",
+        "remote_raider_flare",
+        "smoke_grenade"
+      ]
     },
     {
       "level": 2,
@@ -54,7 +62,11 @@
           "quantity": 6
         }
       ],
-      "crafts": []
+      "crafts": [
+        "lure_grenade",
+        "raider_hatch_key",
+        "zipline"
+      ]
     },
     {
       "level": 3,
@@ -72,7 +84,11 @@
           "quantity": 4
         }
       ],
-      "crafts": []
+      "crafts": [
+        "photoelectric_cloak",
+        "snap_hook",
+        "tagging_grenade"
+      ]
     }
   ]
 }

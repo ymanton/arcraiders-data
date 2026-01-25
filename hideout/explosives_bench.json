@@ -36,7 +36,10 @@
           "quantity": 6
         }
       ],
-      "crafts": []
+      "crafts": [
+        "gas_grenade",
+        "light_impact_grenade"
+      ]
     },
     {
       "level": 2,
@@ -54,7 +57,11 @@
           "quantity": 5
         }
       ],
-      "crafts": []
+      "crafts": [
+        "blaze_grenade",
+        "shrapnel_grenade",
+        "snap_blast_grenade"
+      ]
     },
     {
       "level": 3,
@@ -72,7 +79,11 @@
           "quantity": 3
         }
       ],
-      "crafts": []
+      "crafts": [
+        "heavy_fuze_grenade",
+        "explosive_mine",
+        "wolfpack"
+      ]
     }
   ]
 }

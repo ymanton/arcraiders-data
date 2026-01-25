@@ -27,7 +27,21 @@
     {
       "level": 1,
       "requirementItemIds": [],
-      "crafts": []
+      "crafts": [
+        "looting_mk1",
+        "light_shield",
+        "heavy_ammo",
+        "light_ammo",
+        "medium_ammo",
+        "shotgun_ammo",
+        "shield_recharger",
+        "bandage",
+        "light_impact_grenade",
+        "ferro_i",
+        "hairpin_i",
+        "kettle_i",
+        "stitcher_i"
+      ]
     }
   ]
 }

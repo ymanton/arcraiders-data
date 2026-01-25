@@ -36,7 +36,12 @@
           "quantity": 6
         }
       ],
-      "crafts": []
+      "crafts": [
+        "herbal_bandage",
+        "shield_recharger",
+        "adrenaline_shot",
+        "bandage"
+      ]
     },
     {
       "level": 2,
@@ -54,7 +59,10 @@
           "quantity": 8
         }
       ],
-      "crafts": []
+      "crafts": [
+        "sterilized_bandage",
+        "surge_shield_recharger"
+      ]
     },
     {
       "level": 3,
@@ -72,7 +80,10 @@
           "quantity": 5
         }
       ],
-      "crafts": []
+      "crafts": [
+        "vita_spray",
+        "vita_shot"
+      ]
     }
   ]
 }

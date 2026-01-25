@@ -36,7 +36,13 @@
           "quantity": 30
         }
       ],
-      "crafts": []
+      "crafts": [
+        "light_shield",
+        "medium_shield",
+        "combat_mk1",
+        "looting_mk1",
+        "tactical_mk1"
+      ]
     },
     {
       "level": 2,
@@ -54,7 +60,12 @@
           "quantity": 5
         }
       ],
-      "crafts": []
+      "crafts": [
+        "heavy_shield",
+        "combat_mk2",
+        "looting_mk2",
+        "tactical_mk2"
+      ]
     },
     {
       "level": 3,
@@ -72,7 +83,14 @@
           "quantity": 6
         }
       ],
-      "crafts": []
+      "crafts": [
+        "combat_mk3_aggressive",
+        "combat_mk3_flanking",
+        "looting_mk3_cautious",
+        "looting_mk3_survivor",
+        "tactical_mk3_defensive",
+        "tactical_mk3_healing"
+      ]
     }
   ]
 }

@@ -36,7 +36,22 @@
           "quantity": 30
         }
       ],
-      "crafts": []
+      "crafts": [
+        "ferro_i",
+        "hairpin_i",
+        "kettle_i",
+        "rattler_i",
+        "stitcher_i",
+        "angled_grip_i",
+        "compensator_i",
+        "extended_light_mag_i",
+        "extended_medium_mag_i",
+        "extended_shotgun_mag_i",
+        "muzzle_brake_i",
+        "shotgun_choke_i",
+        "stable_stock_i",
+        "vertical_grip_i"
+      ]
     },
     {
       "level": 2,
@@ -54,7 +69,9 @@
           "quantity": 8
         }
       ],
-      "crafts": []
+      "crafts": [
+        "arpeggio_i"
+      ]
     },
     {
       "level": 3,
@@ -72,7 +89,11 @@
           "quantity": 4
         }
       ],
-      "crafts": []
+      "crafts": [
+        "bettina_i",
+        "renegade_i",
+        "hullcracker_i"
+      ]
     }
   ]
 }
