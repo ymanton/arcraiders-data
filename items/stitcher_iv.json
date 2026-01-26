@@ -212,6 +212,8 @@
       "zh-TW": "降低換彈時間"
     }
   },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recyclesInto": {
     "mechanical_components": 2,
     "simple_gun_parts": 2

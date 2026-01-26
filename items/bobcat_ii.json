@@ -373,6 +373,8 @@
       "zh-TW": "隱密性"
     }
   },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recyclesInto": {
     "advanced_mechanical_components": 3,
     "light_gun_parts": 3

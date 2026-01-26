@@ -166,6 +166,8 @@
       "zh-TW": "彈匣容量"
     }
   },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recyclesInto": {
     "mechanical_components": 2,
     "simple_gun_parts": 2

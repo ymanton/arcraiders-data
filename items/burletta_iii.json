@@ -49,6 +49,8 @@
   "value": 7000,
   "weightKg": 4,
   "isWeapon": true,
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recyclesInto": {
     "mechanical_components": 3,
     "simple_gun_parts": 3

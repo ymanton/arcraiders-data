@@ -212,6 +212,8 @@
       "zh-TW": "降低散射恢復時間"
     }
   },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recyclesInto": {
     "mechanical_components": 4,
     "simple_gun_parts": 4

@@ -304,7 +304,7 @@
       "zh-TW": "隱密性"
     }
   },
-  "craftBench": ["weapon_bench"],
+  "craftBench": "weapon_bench",
   "stationLevelRequired": 3,
   "recipe": {
     "exodus_modules": 2,
