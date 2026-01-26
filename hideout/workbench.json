@@ -40,7 +40,12 @@
         "ferro_i",
         "hairpin_i",
         "kettle_i",
-        "stitcher_i"
+        "stitcher_i",
+        "blaze_grenade_trap",
+        "energy_clip",
+        "gas_grenade_trap",
+        "lure_grenade_trap",
+        "smoke_grenade_trap"
       ]
     }
   ]

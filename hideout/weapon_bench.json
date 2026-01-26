@@ -50,7 +50,37 @@
         "muzzle_brake_i",
         "shotgun_choke_i",
         "stable_stock_i",
-        "vertical_grip_i"
+        "vertical_grip_i",
+        "burletta_i",
+        "anvil_i",
+        "arpeggio_ii",
+        "arpeggio_iii",
+        "arpeggio_iv",
+        "hairpin_ii",
+        "hairpin_iii",
+        "hairpin_iv",
+        "il_toro_i",
+        "il_toro_ii",
+        "il_toro_iii",
+        "il_toro_iv",
+        "osprey_ii",
+        "osprey_iii",
+        "osprey_iv",
+        "rattler_ii",
+        "rattler_iii",
+        "rattler_iv",
+        "renegade_ii",
+        "renegade_iii",
+        "renegade_iv",
+        "tempest_ii",
+        "tempest_iii",
+        "tempest_iv",
+        "venator_ii",
+        "venator_iii",
+        "vulcano_ii",
+        "vulcano_iii",
+        "vulcano_iv",
+        "venator_iv"
       ]
     },
     {
@@ -80,7 +110,13 @@
         "extended_light_mag_ii",
         "extended_medium_mag_ii",
         "extended_shotgun_mag_ii",
-        "stable_stock_ii"
+        "stable_stock_ii",
+        "hullcracker_ii",
+        "hullcracker_iii",
+        "hullcracker_iv",
+        "osprey_i",
+        "torrente_i",
+        "venator_i"
       ]
     },
     {
@@ -102,30 +138,37 @@
       "crafts": [
         "bettina_i",
         "renegade_i",
-        "hullcracker_i"
+        "hullcracker_i",
+        "compensator_iii",
+        "muzzle_brake_iii",
+        "shotgun_choke_iii",
+        "silencer_ii",
+        "silencer_iii",
+        "shotgun_silencer",
+        "extended_barrel",
+        "angled_grip_iii",
+        "vertical_grip_iii",
+        "horizontal_grip",
+        "extended_light_mag_iii",
+        "extended_medium_mag_iii",
+        "extended_shotgun_mag_iii",
+        "stable_stock_iii",
+        "lightweight_stock",
+        "padded_stock",
+        "kinetic_converter",
+        "anvil_splitter",
+        "anvil_i",
+        "aphelion",
+        "bobcat_i",
+        "launcher_ammo",
+        "bettina_ii",
+        "bettina_iii",
+        "bettina_iv",
+        "equalizer",
+        "jupiter",
+        "tempest_i",
+        "vulcano_i"
       ]
     }
-  ],
-  "crafts": {
-    "3": [
-      "compensator_iii",
-      "muzzle_brake_iii",
-      "shotgun_choke_iii",
-      "silencer_ii",
-      "silencer_iii",
-      "shotgun_silencer",
-      "extended_barrel",
-      "angled_grip_iii",
-      "vertical_grip_iii",
-      "horizontal_grip",
-      "extended_light_mag_iii",
-      "extended_medium_mag_iii",
-      "extended_shotgun_mag_iii",
-      "stable_stock_iii",
-      "lightweight_stock",
-      "padded_stock",
-      "kinetic_converter",
-      "anvil_splitter"
-    ]
-  }
+  ]
 }

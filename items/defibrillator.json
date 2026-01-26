@@ -98,6 +98,7 @@
     }
   },
   "craftBench": "med_station",
+  "stationLevelRequired": 2,
   "recipe": {
     "moss": 1,
     "plastic_parts": 9

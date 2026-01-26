@@ -98,6 +98,7 @@
     }
   },
   "craftBench": "utility_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "chemicals": 3
   },

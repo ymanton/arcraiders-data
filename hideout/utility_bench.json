@@ -65,7 +65,11 @@
       "crafts": [
         "lure_grenade",
         "raider_hatch_key",
-        "zipline"
+        "zipline",
+        "blue_light_stick",
+        "green_light_stick",
+        "red_light_stick",
+        "yellow_light_stick"
       ]
     },
     {

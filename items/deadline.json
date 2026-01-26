@@ -121,6 +121,7 @@
     }
   },
   "craftBench": "explosives_bench",
+  "stationLevelRequired": 3,
   "recipe": {
     "arc_circuitry": 2,
     "explosive_compound": 3

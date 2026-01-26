@@ -97,6 +97,7 @@
       "zh-TW": "使用時間"
     }
   },
+  "craftBench": "med_station",
   "stationLevelRequired": 3,
   "recipe": {
     "antiseptic": 2,

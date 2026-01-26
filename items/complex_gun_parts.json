@@ -51,6 +51,7 @@
   "weightKg": 1,
   "stackSize": 3,
   "craftBench": "refiner",
+  "stationLevelRequired": 3,
   "recipe": {
     "heavy_gun_parts": 2,
     "light_gun_parts": 2,

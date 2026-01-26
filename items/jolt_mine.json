@@ -121,6 +121,7 @@
     }
   },
   "craftBench": "explosives_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "battery": 1,
     "electrical_components": 1

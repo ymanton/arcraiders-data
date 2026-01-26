@@ -98,6 +98,7 @@
     }
   },
   "craftBench": "explosives_bench",
+  "stationLevelRequired": 2,
   "recipe": {
     "crude_explosives": 2,
     "processor": 1

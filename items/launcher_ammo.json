@@ -50,8 +50,11 @@
   "weightKg": 0.1,
   "stackSize": 24,
   "craftQuantity": 6,
-  "compatibleWith": ["Hullcracker"],
-  "craftBench": "workbench",
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 3,
+  "compatibleWith": [
+    "Hullcracker"
+  ],
   "recipe": {
     "arc_motion_core": 1,
     "crude_explosives": 2

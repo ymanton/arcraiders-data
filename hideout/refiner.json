@@ -90,7 +90,8 @@
       ],
       "crafts": [
         "magnetic_accelerator",
-        "power_rod"
+        "power_rod",
+        "complex_gun_parts"
       ]
     }
   ]

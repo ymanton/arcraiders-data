@@ -236,6 +236,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recyclesInto": {
     "advanced_mechanical_components": 3,
     "medium_gun_parts": 3

@@ -236,6 +236,7 @@
     }
   },
   "craftBench": "weapon_bench",
+  "stationLevelRequired": 1,
   "recyclesInto": {
     "mechanical_components": 1,
     "simple_gun_parts": 2

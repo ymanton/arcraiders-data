@@ -38,7 +38,10 @@
       ],
       "crafts": [
         "gas_grenade",
-        "light_impact_grenade"
+        "light_impact_grenade",
+        "gas_mine",
+        "pulse_mine",
+        "seeker_grenade"
       ]
     },
     {
@@ -60,7 +63,10 @@
       "crafts": [
         "blaze_grenade",
         "shrapnel_grenade",
-        "snap_blast_grenade"
+        "snap_blast_grenade",
+        "fireworks_box",
+        "jolt_mine",
+        "trigger_nade"
       ]
     },
     {
@@ -82,7 +88,10 @@
       "crafts": [
         "heavy_fuze_grenade",
         "explosive_mine",
-        "wolfpack"
+        "wolfpack",
+        "deadline",
+        "showstopper",
+        "trailblazer"
       ]
     }
   ]
